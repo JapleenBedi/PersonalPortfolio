@@ -1,2 +1,2 @@
 # PersonalPortfolio
-I made my personal Portfolio using html, Css and JavaScript.  
+I made my personal Portfolio using Html, Css and JavaScript.  
